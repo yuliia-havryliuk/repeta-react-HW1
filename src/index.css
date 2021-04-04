@@ -23,7 +23,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: #ffdac4;
 }
 
 a,
@@ -49,7 +48,9 @@ textarea {
   border: none;
   display: inline-block;
 }
-
+input {
+  margin-top: 5px;
+}
 button:hover,
 button:focus,
 input:hover,

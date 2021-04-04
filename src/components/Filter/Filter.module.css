@@ -1,0 +1,9 @@
+.title {
+  padding-top: 20px;
+}
+.title input {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+}
